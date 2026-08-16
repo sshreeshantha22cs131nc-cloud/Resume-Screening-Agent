@@ -1,0 +1,21 @@
+Deepak Kumar
+B.E. Mechanical Engineering, RNS Institute of Technology | CGPA: 7.2/10
+Email: deepak.kumar@email.com
+
+SUMMARY
+Mechanical engineering student exploring a career shift into data
+analytics. Self-taught in Excel and beginning Python fundamentals.
+
+SKILLS
+Excel, basic Python, AutoCAD, SolidWorks, MATLAB, basic SQL
+
+PROJECTS
+Automated Excel Reporting Tool
+- Built VBA macros to automate monthly Excel reports for a college project
+- Reduced manual reporting time by an estimated 40%
+
+Engine Performance Simulation
+- Used MATLAB to simulate engine thermal efficiency under varying loads
+
+EDUCATION
+B.E. Mechanical Engineering, RNS Institute of Technology (2022-2026), CGPA 7.2/10

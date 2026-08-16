@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+output/
+dir_tiny.txt
+dir_tinyfish.txt
+dir_tf.txt
+dir_client.txt

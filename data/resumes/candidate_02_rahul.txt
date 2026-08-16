@@ -1,0 +1,29 @@
+Rahul Mehta
+B.Sc Statistics, Christ University | CGPA: 8.4/10
+Email: rahul.mehta@email.com
+
+SUMMARY
+Statistics graduate with hands-on experience in Python, SQL, and Excel-based
+analysis. Strong quantitative background with several data projects in
+finance and e-commerce domains.
+
+SKILLS
+Python, SQL, Excel (Advanced), Pandas, NumPy, Power BI, Statistics,
+Hypothesis Testing, A/B Testing, Matplotlib
+
+PROJECTS
+E-commerce Customer Churn Analysis
+- Built a churn prediction model using logistic regression in Python
+- Created Power BI dashboard tracking churn rate by customer segment
+
+Stock Price Trend Analysis
+- Used Pandas and SQL to analyze 5 years of historical stock data
+- Applied moving average and volatility metrics
+
+EXPERIENCE
+Data Analysis Intern, FinEdge Analytics (2 months)
+- Cleaned financial transaction data using SQL and Excel
+- Built weekly KPI reports for the finance team
+
+EDUCATION
+B.Sc Statistics, Christ University (2022-2025), CGPA 8.4/10

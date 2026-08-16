@@ -1,0 +1,37 @@
+Ananya Rao
+B.Tech Computer Science, RV College of Engineering | CGPA: 8.9/10
+Email: ananya.rao@email.com | LinkedIn: linkedin.com/in/ananyarao
+
+SUMMARY
+Final-year CS student with strong foundation in Python, SQL, and data
+visualization. Completed a healthcare analytics project analyzing patient
+readmission trends using real hospital datasets.
+
+SKILLS
+Python, R, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau,
+Jupyter Notebook, Excel, Statistics, scikit-learn
+
+PROJECTS
+Patient Readmission Risk Dashboard (Healthcare Analytics)
+- Cleaned and analyzed 50,000+ patient records using Pandas and SQL
+- Built an interactive Power BI dashboard to visualize readmission trends
+  by department and diagnosis code
+- Applied logistic regression to flag high-risk patients, improving
+  early-intervention identification by an estimated 18%
+
+Retail Sales Forecasting
+- Used Python (Pandas, statsmodels) to forecast quarterly sales
+- Presented findings to a panel of 5 faculty reviewers
+
+EXPERIENCE
+Data Analytics Intern, LocalTech Solutions (3 months)
+- Wrote SQL queries to extract and clean transactional data
+- Built weekly reporting dashboards in Tableau for the ops team
+- Documented data cleaning pipeline used by 2 other interns
+
+EDUCATION
+B.Tech Computer Science, RV College of Engineering (2022-2026), CGPA 8.9/10
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate
+IBM Data Science Professional Certificate

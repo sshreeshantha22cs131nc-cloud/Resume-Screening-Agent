@@ -1,0 +1,31 @@
+Arjun Verma
+B.Tech Data Science, MIT Manipal | CGPA: 9.0/10
+Email: arjun.verma@email.com | GitHub: github.com/arjunverma
+
+SUMMARY
+Data Science undergraduate with strong statistics and machine learning
+background. Published a research project on biomedical signal
+classification. Comfortable with Python, R, and SQL.
+
+SKILLS
+Python, R, SQL, Pandas, NumPy, scikit-learn, TensorFlow, Statistics,
+Jupyter Notebook, Matplotlib, Seaborn, basic Tableau
+
+PROJECTS
+ECG Signal Classification for Arrhythmia Detection
+- Built a CNN model in TensorFlow to classify ECG signals from a public
+  biomedical dataset (PhysioNet)
+- Achieved 91% classification accuracy across 5 arrhythmia classes
+- Presented findings at a college research symposium
+
+Customer Segmentation using Clustering
+- Applied K-means clustering in Python to segment 10,000+ customers
+- Visualized clusters using Seaborn and PCA
+
+EXPERIENCE
+Research Assistant, MIT Manipal Biomedical Data Lab (6 months)
+- Preprocessed biomedical time-series data using Pandas and NumPy
+- Co-authored a short paper on signal classification methods
+
+EDUCATION
+B.Tech Data Science, MIT Manipal (2022-2026), CGPA 9.0/10

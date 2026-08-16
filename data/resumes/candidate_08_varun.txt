@@ -1,0 +1,25 @@
+Varun Reddy
+B.Tech Computer Science, VIT Vellore | CGPA: 7.9/10
+Email: varun.reddy@email.com
+
+SUMMARY
+CS student with coursework in statistics and databases. Limited hands-on
+project experience but strong theoretical foundation in data structures
+and algorithms.
+
+SKILLS
+Python, SQL (coursework), Java, C++, Data Structures, Algorithms, basic
+Excel, basic statistics
+
+PROJECTS
+Library Management System
+- Built a database-backed library system using SQL and Java
+
+Sorting Algorithm Visualizer
+- Created a Python tool to visualize sorting algorithms step by step
+
+EDUCATION
+B.Tech Computer Science, VIT Vellore (2022-2026), CGPA 7.9/10
+
+COURSEWORK
+Database Management Systems, Probability and Statistics, Data Mining (intro)

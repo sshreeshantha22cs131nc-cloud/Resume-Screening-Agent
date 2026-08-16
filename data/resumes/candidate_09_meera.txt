@@ -1,0 +1,40 @@
+Meera Krishnan
+B.Tech Computer Science, IIIT Bangalore | CGPA: 9.2/10
+Email: meera.krishnan@email.com | GitHub: github.com/meerak
+
+SUMMARY
+CS student specializing in data analytics with strong Python, SQL, and
+visualization skills. Two data analytics internships and a healthcare-
+adjacent capstone project.
+
+SKILLS
+Python, SQL, R, Pandas, NumPy, Power BI, Tableau, Excel, scikit-learn,
+Statistics, Jupyter Notebook, Data Cleaning, A/B Testing
+
+PROJECTS
+Diabetes Risk Prediction Dashboard
+- Built a Power BI dashboard visualizing diabetes risk factors from a
+  public health dataset of 8,000+ patients
+- Trained a logistic regression model achieving 84% accuracy
+- Presented insights to a mock "stakeholder panel" as part of coursework
+
+Sales Analytics Pipeline
+- Built an end-to-end SQL + Python pipeline for a mock retail dataset
+- Automated weekly report generation, cutting manual work significantly
+
+EXPERIENCE
+Data Analyst Intern, Insightify Analytics (3 months)
+- Wrote complex SQL queries across multiple relational tables
+- Built and maintained 4 Power BI dashboards for internal stakeholders
+- Presented monthly findings to non-technical business teams
+
+Business Intelligence Intern, RetailX (2 months)
+- Cleaned and validated large Excel datasets
+- Supported senior analysts with ad-hoc statistical analysis
+
+EDUCATION
+B.Tech Computer Science, IIIT Bangalore (2022-2026), CGPA 9.2/10
+
+CERTIFICATIONS
+Microsoft Power BI Data Analyst Associate
+Google Data Analytics Professional Certificate

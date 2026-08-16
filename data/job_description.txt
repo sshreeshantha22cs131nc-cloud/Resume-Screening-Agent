@@ -1,0 +1,35 @@
+Job Title: Data Analyst Intern
+
+Company: GE HealthCare
+
+About the Role:
+We are seeking a motivated Data Analyst Intern to join our analytics team.
+The intern will work on real healthcare datasets, build dashboards, and
+support data-driven decision making across clinical and operational teams.
+
+Responsibilities:
+- Clean, transform, and analyze structured and unstructured healthcare data
+- Build dashboards and visualizations using tools like Power BI, Tableau, or Python
+- Write SQL queries to extract insights from relational databases
+- Apply statistical methods to identify trends and anomalies in data
+- Collaborate with cross-functional teams to translate business questions into data analysis
+- Document findings clearly and present them to non-technical stakeholders
+
+Required Skills:
+- Proficiency in Python or R for data analysis
+- Strong SQL skills
+- Experience with data visualization tools (Power BI, Tableau, or Matplotlib/Seaborn)
+- Understanding of statistics and data cleaning techniques
+- Familiarity with Excel for quick analysis
+- Strong attention to detail and communication skills
+
+Preferred Qualifications:
+- Coursework or projects in healthcare analytics or biomedical data
+- Experience with pandas, NumPy, and Jupyter Notebooks
+- Exposure to machine learning fundamentals
+- Prior internship or academic project involving real-world datasets
+
+Education:
+- Currently pursuing a Bachelor's degree in Computer Science, Statistics,
+  Data Science, or a related field
+- Minimum CGPA of 7.0/10 or equivalent

@@ -1,0 +1,26 @@
+Priya Nair
+B.Tech Computer Science, PES University | CGPA: 8.1/10
+Email: priya.nair@email.com
+
+SUMMARY
+CS student with a growing interest in data analytics and machine learning.
+Comfortable with Python and SQL, currently building a portfolio of data
+projects.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Matplotlib, basic Power BI, Excel, Git
+
+PROJECTS
+COVID-19 Data Visualization
+- Analyzed public COVID-19 datasets using Pandas and Matplotlib
+- Built simple trend visualizations for cases and vaccination rates
+
+Student Performance Predictor
+- Used scikit-learn to predict student grades from study habits data
+- Achieved 82% accuracy with a random forest model
+
+EDUCATION
+B.Tech Computer Science, PES University (2022-2026), CGPA 8.1/10
+
+CERTIFICATIONS
+Coursera: Python for Data Science

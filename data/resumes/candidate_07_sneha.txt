@@ -1,0 +1,28 @@
+Sneha Iyer
+B.Sc Data Science, Mount Carmel College | CGPA: 8.6/10
+Email: sneha.iyer@email.com
+
+SUMMARY
+Data Science student with strong SQL and dashboarding skills, currently
+interning at a clinical research organization analyzing trial data.
+
+SKILLS
+SQL, Python, Pandas, Power BI, Tableau, Excel, Statistics, Data Cleaning,
+basic R
+
+PROJECTS
+Clinical Trial Dropout Analysis
+- Analyzed patient dropout patterns across 3 clinical trial datasets
+- Built a Tableau dashboard tracking dropout rate by trial phase and site
+
+Hospital Resource Utilization Dashboard
+- Used SQL to query hospital bed occupancy data
+- Built Power BI report used by hospital ops team for weekly review
+
+EXPERIENCE
+Data Intern, ClinResearch Partners (4 months, ongoing)
+- Clean and validate clinical trial datasets using SQL and Excel
+- Support statisticians with data extraction for regulatory reports
+
+EDUCATION
+B.Sc Data Science, Mount Carmel College (2022-2025), CGPA 8.6/10

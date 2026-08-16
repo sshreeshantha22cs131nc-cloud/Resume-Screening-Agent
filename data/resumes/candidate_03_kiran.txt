@@ -1,0 +1,26 @@
+Kiran Shetty
+B.E. Information Science, BMS College of Engineering | CGPA: 7.6/10
+Email: kiran.shetty@email.com
+
+SUMMARY
+Web developer with experience building full-stack applications using
+React and Node.js. Interested in transitioning into data roles.
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Git, basic Python
+
+PROJECTS
+E-commerce Website
+- Built a full-stack e-commerce site with React frontend and Node backend
+- Integrated payment gateway and user authentication
+
+Portfolio Website Builder
+- Created a drag-and-drop website builder tool using React
+
+EXPERIENCE
+Frontend Developer Intern, WebCraft Studios (3 months)
+- Built responsive UI components using React
+- Fixed cross-browser compatibility bugs
+
+EDUCATION
+B.E. Information Science, BMS College of Engineering (2022-2026), CGPA 7.6/10
